@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shady Idrissi</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
-
+<img align="right" alt="hello wollod " width="400" src="https://www.pngkey.com/png/full/306-3064446_developer-developer-png.png"/>
 - 🔭 I’m currently working on **Freelance for the past couple of years**
 
 - 🌱 I’m currently learning **react native and react js and express js and next js**
